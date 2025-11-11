@@ -4,8 +4,8 @@ ___
 
 ## 🚀 About Me
 
-🚀 Desarrollador Frontend especializado en **Vue** y **Angular**.  
-💻 Actualmente trabajando en proyectos con **Spring Boot + Java** en el backend.  
+🚀 Desarrollador Frontend especializado en **Vue**.  
+💻 Actualmente trabajando en proyectos con **React & Typescript**.  
 🌱 Siempre aprendiendo sobre tecnologías web y arquitectura de software.
 
 ## 📫 Conecta conmigo:
