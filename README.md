@@ -1,5 +1,5 @@
 # Hi, I’m Felipe Alvarado
-** Front-End Developer | 🛠️ Vue Specialist | 🌐 From Bogotá, Colombia**
+Front-End Developer | 🛠️ Vue Specialist | 🌐 From Bogotá, Colombia**
 ___
 
 ## About Me
