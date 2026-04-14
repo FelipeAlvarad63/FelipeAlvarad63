@@ -1,5 +1,5 @@
 # Hi, I’m Felipe Alvarado
-Front-End Developer | 🛠️ Vue Specialist | 🌐 From Bogotá, Colombia**
+Front-End Developer | Vue Specialist | From Bogotá, Colombia**
 ___
 
 ## About Me
@@ -8,5 +8,5 @@ ___
 * Actualmente trabajando en proyectos con **React & Typescript**.  
 * Siempre aprendiendo sobre tecnologías web y arquitectura de software.
 
-## 📫 Conecta conmigo:
+## Conecta conmigo:
 - LinkedIn: [Mi perfil](https://linkedin.com/in/felipe-alvarado-7a79131b8/)
