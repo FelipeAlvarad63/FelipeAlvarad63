@@ -7,5 +7,5 @@ ___
 - También he trabajado en proyectos utilizando **Node.js, Python, SQl**. 
 - Siempre aprendiendo sobre tecnologías web y arquitectura de software.
 
-## Conecta conmigo:
+### Conecta conmigo:
 - LinkedIn: [Mi perfil](https://linkedin.com/in/felipe-alvarado-7a79131b8/)
